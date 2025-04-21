@@ -7,13 +7,13 @@
         <!-- Header dari kartu -->
         <div class="card-header">
             <!-- Judul pada header -->
-            <h3 class="card-title">Halo, apakabar!!!</h3>
+            <h3 class="card-title">Selamat Datang</h3>
             <div class="card-tools"></div> <!-- Tempat untuk menambahkan tombol/tool lain jika diperlukan -->
         </div>
 
         <!-- Isi utama dari kartu -->
         <div class="card-body">
-            Selamat datang semua, ini adalah halaman utama dari aplikasi ini.
+            <img src="{{ asset('images/ukm.jpg') }}" alt="Gambar UKM" class="img-fluid mb-3" style="max-width: 600px;">
         </div>
     </div>
 
