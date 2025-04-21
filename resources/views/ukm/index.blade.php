@@ -87,7 +87,7 @@
                     },{
                         data: "tahun_berdiri", // Kolom Tahun Berdiri
                         className: "",
-                        orderable: false,
+                        orderable: true,
                         searchable: false
                     },{
                         data: "aksi", // Kolom Aksi (edit/hapus)
