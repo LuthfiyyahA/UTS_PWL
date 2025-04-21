@@ -26,7 +26,7 @@
       <li class="nav-item">
           <a href="{{ url('/ukm') }}" class="nav-link {{ ($activeMenu == 'ukm') ? 'active' : '' }}">
               <i class="nav-icon fas fa-layer-group"></i>
-              <p>Unit Kegiatan Mahasiswa</p>
+              <p>Daftar UKM</p>
           </a>
       </li>
     </ul>
